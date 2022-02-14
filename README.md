@@ -11,7 +11,7 @@ mlflow run . --no-conda     (if we are in the same environment and doe not creat
 mlflow run https://github.com/sushantsur23/Aiops-_ML_Flow_part1.git -P param1=6 -P param2=7 --no-conda
 (use above code to run from github directly, if you get error try to publish on master node of Github)
 
-mlflow ui
+mlflow ui 
 
 
 ```
